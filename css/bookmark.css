@@ -1,0 +1,38 @@
+.well{
+    padding: 20px;
+    background-color: #ECE9E9;
+    margin-bottom: 15px;
+}
+
+.well a{
+    float: right;
+    display: block;
+}
+
+.well .btn.btn-default{
+    border: 1px solid #8B8A8A;
+    margin-left: 10px;
+    transition: .4s;
+}
+
+.well .btn.btn-default:hover{
+    background-color: #0B722A;
+    transition: .4s;
+    color: #FDFAFA;
+}
+
+.form-group input{
+    width: 100%;
+    padding: 5px;
+}
+
+.form-group label{
+    font-size: 1.5rem;
+    float: left;
+}
+
+.display-4{
+    padding-bottom: 20px;
+}
+
+
